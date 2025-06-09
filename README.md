@@ -55,11 +55,11 @@ Se i file sono corretti, verrà generato nella root della cartella qmk_firmware 
 
 Nella cartella keyboards trovate un esempio di configurazione con i file commentati per maggior chiarezza. In ogni caso il riferimento principale è il sito di QMK nella sezione Keymaps: https://docs.qmk.fm/keymap
 
-In linea di massima il file da modificare è comunque keymap.c. Per creare questo file potete editare quello esistente, o generarlo con questo configuratore:
+In linea di massima il file da modificare è \<keymap.c>. Per creare questo file potete editare quello esistente, o generarlo con questo configuratore:
 
 https://www.simont.org/r12/configurator.htm
 
-che contiene una buona parte dei possibili descrittori di tasti (keycodes). La lista completa dei keycode è comunque disponibile sul sito QMK alla pagina https://docs.qmk.fm/keycodes.
+che contiene una buona parte dei possibili descrittori di tasti (keycodes). La lista completa dei keycode è disponibile sul sito QMK alla pagina https://docs.qmk.fm/keycodes.
 
 # Todo
 

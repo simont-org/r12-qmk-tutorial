@@ -15,7 +15,6 @@ Questo tutorial presume che non si voglia seguire il percorso del forking del re
 ## Montaggio della tastiera
 
 Seguire le istruzioni sulla pagina di Khor (https://github.com/MoltenKhor/R12) fino allo step 5.
-Seguire le istruzioni sulla pagina di Khor (https://github.com/MoltenKhor/R12) fino allo step 5.
 E' inoltre possibile montare un encoder rotativo con switch di tipo EC11 
 
 ![encoder ec11](images/encoder_ec11.jpg)

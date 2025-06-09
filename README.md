@@ -14,10 +14,13 @@ Questo tutorial presume che non si voglia seguire il percorso del forking del re
 Seguire le istruzioni sulla pagina di Khor (https://github.com/MoltenKhor/R12) fino allo step 5.
 Seguire le istruzioni sulla pagina di Khor (https://github.com/MoltenKhor/R12) fino allo step 5.
 E' inoltre possibile montare un encoder rotativo con switch di tipo EC11 
-![enter image description here](images/encoder%20ec11.jpg)
+
+![encoder ec11](images/encoder_ec11.jpg)
 ed utilizzarlo sia per la rotazione (es. rotella del mouse) sia come tredicesimo tasto. La posizione in cui va saldato è del tutto evidente.
-![enter image description here](ooo)
-![enter image description here](kkk)
+
+![encoder 1](images/encoder1.jpg)
+
+![encoder2](images/encoder1.jpg)
 
 ## Installazione dell'ambiente QMK in Windows
 Nella pagina Getting Started di QMK, https://docs.qmk.fm/newbs_getting_started, potete trovare il link a QMK MSYS: https://msys.qmk.fm/. Il pulsante "latest version" porterà al download dell'installer per l'ultima versione.

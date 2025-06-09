@@ -13,7 +13,7 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["GP22", "GP26", "GP27", "GP28", "GP29"],
+        "cols": ["GP22", "GP26", "GP27", "GP28", "GP29"],  // Il pin 29 è collegato all'encoder rotativo
         "rows": ["GP7", "GP8", "GP9"]
     },
 
@@ -24,7 +24,7 @@
         "vid": "0xFEED"
     },
     "layouts": {
-        "LAYOUT_numpad_3x4": {
+        "LAYOUT_numpad_3x4": {   // non usato in questo esempio, da utilizzare se non si monta l'encoder
             "layout": [
                 {"matrix": [0, 0], "x": 0, "y": 0},
                 {"matrix": [0, 1], "x": 1, "y": 0},
@@ -40,7 +40,7 @@
                 {"matrix": [2, 3], "x": 3, "y": 2}
             ]
         },
-		 "LAYOUT_numpad_3x4k": {				// simont: layout con switch dell'encoder == 13o tasto
+		 "LAYOUT_numpad_3x4k": {				// layout con switch dell'encoder == 13o tasto
 				"layout": [
 				  { "matrix":[0,0], "x":0, "y":0 },
 				  { "matrix":[0,1], "x":1, "y":0 },

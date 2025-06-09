@@ -6,7 +6,7 @@ Come configurare il tastierino **R12** di **Khor** installando l'ambiente **QMK*
  - La documentazione su **Helios** (micro basato su RP2040) comprensiva di pinout si trova qui:
    https://github.com/0xCB-dev/0xCB-Helios
 
-# Tutti i passi per la configurazione
+# Passi da seguire per la configurazione
 Questo tutorial presume che non si voglia seguire il percorso del forking del repository principale perché ad esempio:
  1. Non si dispone dell'ambiente di compilazione (es. mingw, ecc.) installato nel proprio PC
  2. Non si utilizza Github

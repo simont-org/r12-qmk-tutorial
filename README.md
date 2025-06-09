@@ -26,6 +26,7 @@ ed utilizzarlo sia per la rotazione (es. rotella del mouse) sia come tredicesimo
 
 ![encoder 2](images/encoder2.jpg)
 
+
 ## Installazione dell'ambiente QMK in Windows
 Nella pagina Getting Started di QMK, https://docs.qmk.fm/newbs_getting_started, potete trovare il link a QMK MSYS: https://msys.qmk.fm/. Il pulsante "latest version" porterà al download dell'installer per l'ultima versione.
 Installate l'ambiente facendo attenzione al fatto che l'ambiente completo occuperà quasi una decina di Gb, quindi assicuratevi di avere lo spazio necessario sul disco (io l'ho installato su un disco esterno).

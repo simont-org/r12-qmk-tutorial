@@ -49,3 +49,19 @@ Se i file sono corretti, verrà generato nella root della cartella qmk_firmware 
  che è pronto per essere caricato sulla R12.
  ## Caricamento del firmware
  Collegate la tastiera al PC e premete due volte di seguito il pulsantino di reset che si trova tra il micro e l'encoder (o lo spazio per l'encoder se non l'avete montato). Sul PC comparirà un nuovo disco che di fatto è la flash del micro (RP2040). Copiate il file .uf2 appena generato sulla directory radice del disco flash, il micro si resetterà e la vostra tastiera dovrebbe essere pronta per l'uso con la vostra configurazione.
+
+ 
+# Configurazione della tastiera
+
+Nella cartella keyboards trovate un esempio di configurazione con i file commentati per maggior chiarezza. In ogni caso il riferimento principale è il sito di QMK nella sezione Keymaps: https://docs.qmk.fm/keymap
+
+In linea di massima il file da modificare è comunque keymap.c. Per creare questo file potete editare quello esistente, o generarlo con questo configuratore:
+
+https://www.simont.org/r12/configurator.htm
+
+che contiene una buona parte dei possibili descrittori di tasti (keycodes). La lista completa dei keycode è comunque disponibile sul sito QMK alla pagina https://docs.qmk.fm/keycodes.
+
+# Todo
+
+ - Aggiungere il display e documentarlo
+ - Disegnare un case da stampare in 3d

@@ -1,5 +1,5 @@
-# Configurare il tastierino R12 di Khor
-Come configurare il tastierino **R12** di **Khor** installando l'ambiente **QMK** (Quantum Mechanical Keyboard).
+# Tutorial: configurare il tastierino R12 di Khor e compilarne il firmware
+Come generare un proprio firmware per il tastierino **R12** di **Khor** installando l'ambiente **QMK** (Quantum Mechanical Keyboard) e configurando la tastiera a proprio piacimento.
 
  - Il repository principale di R12 si trova qui: https://github.com/MoltenKhor/R12
  - Il sito di QMK è questo: https://docs.qmk.fm/

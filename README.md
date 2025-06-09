@@ -46,6 +46,7 @@ Una volta creati/modificati i file necessari per la configurazione, nell'ambient
 
     qmk compile -kb <keyboard> -km default
 Dove \<keyboard> è il nome della vostra directory e \<default> è una delle versioni di keymap (ogni diversa keymap avrà una sua cartella che quindi dovrà essere specificata con questo parametro).
+
 Se i file sono corretti, verrà generato nella root della cartella qmk_firmware un file dal nome
 
     <keyboard>_default.uf2

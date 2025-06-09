@@ -42,7 +42,7 @@ che vi chiederà dove creare la root dei file per QMK (che di fatto è il famoso
 Vi ritroverete una cartella "qmk_firmware" che conterrà una directory "keyboards". Qui dentro potete creare una cartella col nome che vorrete dare al vostro firmware (es. R12-simont). Seguite le istruzioni più sotto (e i file di esempio in questo repository) per configurare il tastierino a piacere.
 
 ## Creazione del firmware
-Una volta costruiti i file necessari per la configurazione, nell'ambiente QMK MSYS potete eseguire il comando:
+Una volta creati/modificati i file necessari per la configurazione, nell'ambiente QMK MSYS potete eseguire il comando:
 
     qmk compile -kb <keyboard> -km default
 Dove \<keyboard> è il nome della vostra directory.

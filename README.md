@@ -1,8 +1,10 @@
 # Configurare il tastierino R12 di Khor
-Come configurare il tastierino R12 di Khor installando l'ambiente QMK (Quantum Mechanical Keyboard).
-Il repository principale di R12 si trova qui: https://github.com/MoltenKhor/R12
-Il sito di QMK è questo: https://docs.qmk.fm/
-La documentazione su Helios (micro basato su RP2040) comprensiva di pinout si trova qui: https://github.com/0xCB-dev/0xCB-Helios
+Come configurare il tastierino **R12** di **Khor** installando l'ambiente **QMK** (Quantum Mechanical Keyboard).
+
+ - Il repository principale di R12 si trova qui: https://github.com/MoltenKhor/R12
+ - Il sito di QMK è questo: https://docs.qmk.fm/
+ - La documentazione su **Helios** (micro basato su RP2040) comprensiva di pinout si trova qui:
+   https://github.com/0xCB-dev/0xCB-Helios
 
 # Tutti i passi per la configurazione
 Questo tutorial presume che non si voglia seguire il percorso del forking del repository principale perché ad esempio:

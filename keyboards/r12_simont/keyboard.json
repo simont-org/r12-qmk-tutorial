@@ -40,13 +40,13 @@
                 {"matrix": [2, 3], "x": 3, "y": 2}
             ]
         },
-		 "LAYOUT_numpad_3x4k": {				// layout con switch dell'encoder == 13o tasto
+		 "LAYOUT_numpad_3x4k": {				// layout con switch dell'encoder == 13o tasto collegato alla prima riga
 				"layout": [
 				  { "matrix":[0,0], "x":0, "y":0 },
 				  { "matrix":[0,1], "x":1, "y":0 },
 				  { "matrix":[0,2], "x":2, "y":0 },
 				  { "matrix":[0,3], "x":3, "y":0 },
-				  { "matrix":[0,4], "x":4, "y":0 },   // switch encoder (13° tasto)
+				  { "matrix":[0,4], "x":4, "y":0 },   // switch encoder (13° tasto) - collegato alla prima Row della matrice
 
 				  { "matrix":[1,0], "x":0, "y":1 },
 				  { "matrix":[1,1], "x":1, "y":1 },
